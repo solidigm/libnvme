@@ -56,7 +56,7 @@ TLS over the nvme-tcp transport.
 
 To enable the optional features install following libraries
 
-`/etc/nvme/config.json`` support:
+`/etc/nvme/config.json` support:
   - json-c (recommend)
 
 Authentication and TLS over nvme-tcp:
